@@ -2,6 +2,12 @@
 title: Title Blocks
 ---
 
+::: {.callout-tip}
+## Customization
+
+To change the title block or page, see the Quarto [template partials](https://quarto.org/docs/journals/templates.html#template-partials).
+:::
+
 ## Overview
 
 HTML pages rendered with Quarto include a formatted title block at the start of the article. The title block contains the title, subtitle, authors, date, doi, and abstract.
